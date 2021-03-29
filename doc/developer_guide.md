@@ -57,7 +57,7 @@ The examples provide a demonstration of how the automated policy rule enforcemen
 The examples will provide a good start to understanding how Palisade works.
 
 For an overview of the examples code see [here](https://github.com/gchq/Palisade-examples).  
-For a quickstart guide to running the examples, see [here](../QUICKSTART.md)
+For a quickstart guide to running the examples, see [here](../QUICKSTART.md).
 
 
 ## Contributing
